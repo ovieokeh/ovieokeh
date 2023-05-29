@@ -1,27 +1,34 @@
 <p align="center">
-    <b>Welcome to GitHub!</b><br><br>
+    <b>Welcome to my GitHub!</b><br><br>
     <i>
         I'm Ovie.<br>
         I work with anything from web apps, technical content, marketing sites to digital personal assistants powered by AI.
     </i><br>
+    <a href="https://www.ovie.dev">
+        <img src="https://img.shields.io/badge/My Website-Ovie.dev-red" alt="My Website">
+    </a>
+    <a href="https://blog.logrocket.com/author/ovieokeh/">
+        <img src="https://img.shields.io/badge/Paid Articles-LogRocket articles-purple" alt="My Website">
+    </a>
     <a href="https://www.linkedin.com/in/ovieokeh">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
 </p>
 
-### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/ovieokeh)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/ovieokeh)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=rust)](https://github.com/ovieokeh)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=typescript)](https://github.com/ovieokeh)
+<h2 align="center">Languages</a>
 
-### Technologies & Frameworks
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/wervlad)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/wervlad)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/wervlad)
-[![Node](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=node)](https://hub.docker.com/u/ovieokeh)
+<p align="center">
+  <a href="https://github.com/ovieokeh?tab=repositories&q=&type=&language=javascript&sort=">
+    <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript" />
+  </a>
+  <a href="https://github.com/ovieokeh?tab=repositories&q=&type=&language=typescript&sort=">
+    <img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript" />
+  </a> 
+   <a href="https://github.com/ovieokeh?tab=repositories&q=&type=&language=rust&sort=">
+    <img src="https://img.shields.io/badge/rust-orange?style=for-the-badge&logo=rust" />
+  </a>
+</p>
 
-<details>
 <p align="center">
   <a href="https://github.com/ovieokeh">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ovieokeh&theme=transparent" />
@@ -36,7 +43,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovieokeh&langs_count=10&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
-</details>
 
 <p align="center">
   <a href="https://github.com/ovieokeh">
