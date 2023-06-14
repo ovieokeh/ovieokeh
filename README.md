@@ -16,7 +16,6 @@
 </p>
 
 <h2 align="center">Languages</a>
-
 <p align="center">
   <a href="https://github.com/ovieokeh?tab=repositories&q=&type=&language=javascript&sort=">
     <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript" />
@@ -40,7 +39,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ovieokeh&theme=transparent" />
   </a>
   <a href="https://github.com/ovieokeh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovieokeh&langs_count=10&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/?username=ovieokeh&langs_count=10&layout=default&card_width=699&hide_border=true&theme=transparent&hide_rank=true" />
   </a>
 </p>
 
